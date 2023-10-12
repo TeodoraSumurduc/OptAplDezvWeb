@@ -23,6 +23,7 @@ p1.Prenume = "Ionut";
 p1.ListaCumparaturi.Add(banana);
 p1.ListaCumparaturi.Add(lapte);
 p1.ListaCumparaturi.Add(paine);
+p1.ListaCumparaturi.Add(pepene);
 
 Persoane.Add(p1);
 
